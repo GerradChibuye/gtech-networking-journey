@@ -39,5 +39,3 @@ The projects here represent continuous learning and experimentation as I develop
 # Repository Structure
 
 Projects are organized by individual concepts rather than following a fixed curriculum structure.
-
-Example:
